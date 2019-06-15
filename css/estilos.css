@@ -48,6 +48,8 @@ body
 
 #post
 {
-    background: white;
-    padding: 1em;
+    background: #777;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0.5em;
 }

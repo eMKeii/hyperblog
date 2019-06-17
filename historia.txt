@@ -6,3 +6,5 @@ El siguiente es un ejemplo de git para control de versiones que pretende afianza
 Y si quieres podemos hablar mas de mi vida personal 
 
 Master 1
+
+Master 2

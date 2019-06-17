@@ -1,6 +1,8 @@
 Hola, mi nombre es Marcos Gvela es un placer para mi poderme presentar y
-ser parte del maravilloso mundo de la programación. 
+ser parte del maravilloso mundo de la programaciï¿½n. 
 
 El siguiente es un ejemplo de git para control de versiones que pretende afianzar los conocimientos obtenidos
 
 Y si quieres podemos hablar mas de mi vida personal 
+
+Master 1
